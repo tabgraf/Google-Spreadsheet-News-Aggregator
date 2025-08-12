@@ -14,7 +14,6 @@ This Google Apps Script application helps you **aggregate news articles from mul
 
 Google-Apps-Script-RSS-Aggregator/
 ├── code.gs # Main script logic (RSS fetch, sync, scheduling)
-├── UI.html # Optional HTML interface (e.g., sidebar/button UI)
 ├── LICENSE
 └── README.md
 
