@@ -17,6 +17,7 @@ Google-Apps-Script-RSS-Aggregator/
 ├── LICENSE
 └── README.md
 
+
 ## 🚀 Getting Started
 
 ### 1. **Clone or Open the Script**
