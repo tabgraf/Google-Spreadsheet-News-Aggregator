@@ -11,12 +11,12 @@ This Google Apps Script application helps you **aggregate news articles from mul
 - 📋 **Clean Output**: News articles are neatly stored in a Google Sheet with structured data.
 
 ## 📁 Folder Structure
-
+```
 Google-Apps-Script-RSS-Aggregator/
 ├── code.gs # Main script logic (RSS fetch, sync, scheduling)
 ├── LICENSE
 └── README.md
-
+```
 
 ## 🚀 Getting Started
 
