@@ -58,9 +58,13 @@ If you're comfortable, grant permissions, or clone and deploy it within your sys
 📄 License
 MIT License. See LICENSE file for details.
 
-🛠️ Customization Tips
-Add filtering options (e.g., by keyword, date, popularity)
+---
 
-Integrate charts or dashboards to visualize trends
+### 💼 Hire Us
 
-Support email/Slack notifications for popular articles
+Need a custom solution using **Google Apps Script** for your workflow or automation needs?
+
+📬 **Email us:** [support@tabgraf.com](mailto:support@tabgraf.com)  
+🌐 **Website:** [https://tabgraf.com](https://tabgraf.com)
+
+---
