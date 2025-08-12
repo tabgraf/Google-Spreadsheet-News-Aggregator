@@ -37,6 +37,7 @@ const feedList = [
   "https://www.reddit.com/r/worldnews/.rss",
   // Add more feeds here
 ];
+```
 
 4. Set Auto-Sync Timer
 Go to Triggers in the Apps Script UI
