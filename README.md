@@ -22,7 +22,7 @@ Google-Apps-Script-RSS-Aggregator/
 
 ### 1. **Clone or Open the Script**
 - Visit the [Google Apps Script Editor](https://script.google.com/)
-- Create a new project and paste the contents of `code.gs` and `UI.html`
+- Create a new project and paste the contents of `code.gs`.
 
 ### 2. **Setup Your Google Sheet**
 - Create a Google Sheet to store the RSS data
