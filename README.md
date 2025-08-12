@@ -39,15 +39,15 @@ const feedList = [
 ];
 ```
 
-4. Set Auto-Sync Timer
+### 4. **Set Auto-Sync Timer**
 Go to Triggers in the Apps Script UI
 
 Set up a time-driven trigger for fetchRSSFeeds at your desired interval (e.g., every 10 minutes)
 
-5. Manual Refresh Option
+### 5. **Manual Refresh Option**
 Use the custom menu or sidebar button (if included in your UI) to manually trigger the refresh
 
-🔐 Permissions
+## 🔐 Permissions
 This script may ask for permission to:
 
 Access your spreadsheet
@@ -56,7 +56,7 @@ Connect to external services (to fetch RSS data)
 
 If you're comfortable, grant permissions, or clone and deploy it within your system.
 
-📄 License
+## 📄 License
 MIT License. See LICENSE file for details.
 
 ---
