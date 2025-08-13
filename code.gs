@@ -1,3 +1,18 @@
+/**
+ * ------------------------------------------------------
+ * Project: News Aggregator
+ * Company: Tabgraf Technologies LLP
+ * Website: https://tabgraf.com
+ * Support Email: support@tabgraf.com
+ * ------------------------------------------------------
+ * Description:
+ *   A Google Apps Script tool that aggregates news from multiple RSS feeds into a single Google Sheet.
+ *
+ * Author: Tabgraf Technologies LLP
+ * License: [Your License Type, e.g., MIT, Apache 2.0]
+ * ------------------------------------------------------
+ */
+
 // --- Constants ---
 // Name of the sheet containing the RSS feed URLs
 const RSS_FEEDS_SHEET_NAME = 'RSS Feeds';
