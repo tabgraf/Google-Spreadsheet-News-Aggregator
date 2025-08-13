@@ -26,6 +26,17 @@ Google-Apps-Script-RSS-Aggregator/
 - Visit the [Google Apps Script Editor](https://script.google.com/)
 - Create a new project and paste the contents of `code.gs`.
 
+### OR
+
+1. Open the following Google Sheet:  
+   [Click here to open](https://docs.google.com/spreadsheets/d/1fNpB8YqhQ-FhLeih76sRynfJ4DQ9wWDreKtHkk1H4cw/edit?gid=987882469#gid=987882469)
+
+2. Go to **File → Make a copy**.
+
+3. Save it to your own Google Drive.  
+   This will create your own copy of the News Aggregator sheet along with its Google Apps Script code.
+
+
 ### 2. **Setup Your Google Sheet**
 - Create a Google Sheet to store the RSS data
 - Link the script to the Sheet (via `Extensions → Apps Script`)
