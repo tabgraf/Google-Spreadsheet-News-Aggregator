@@ -28,8 +28,18 @@ Google-Apps-Script-RSS-Aggregator/
 - Create a Google Sheet to store the RSS data
 - Link the script to the Sheet (via `Extensions → Apps Script`)
 
-### 3. **Configure RSS Feeds**
-- In the spreadsheet, there’s a tab named "RSS Feeds". Add all the links in that tab from which you want the news to be aggregated.
+### 3. Adding RSS Feed Links
+
+In the spreadsheet, there’s a tab named **`RSS Feeds`**.  
+Add all the RSS feed URLs in this tab from which you want the news to be aggregated.  
+
+**Example:**
+
+| Feed URL |
+|----------|
+| https://example.com/rss |
+| https://news.example.com/feed |
+| https://another-site.com/rss.xml |
 
 ### 4. Setting Up Auto Refresh
 
