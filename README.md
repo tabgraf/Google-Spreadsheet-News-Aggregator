@@ -29,23 +29,23 @@ Google-Apps-Script-RSS-Aggregator/
 - Link the script to the Sheet (via `Extensions → Apps Script`)
 
 ### 3. **Configure RSS Feeds**
-- In the script, add your list of RSS feed URLs inside a `feedList` array
+- In the spreadsheet, there’s a tab named "RSS Feeds". Add all the links in that tab from which you want the news to be aggregated.
 
-```js
-const feedList = [
-  "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-  "https://www.reddit.com/r/worldnews/.rss",
-  // Add more feeds here
-];
-```
+### 4. Setting Up Auto Refresh
 
-### 4. **Set Auto-Sync Timer**
-Go to Triggers in the Apps Script UI
+1. In the spreadsheet, go to **`News Aggregator`** in the menu bar.  
+2. Click **`Setup Auto Refresh Timing`**.  
+3. This will create a time-driven trigger using `createTimeDrivenTrigger` to refresh news at your chosen interval.
 
-Set up a time-driven trigger for fetchRSSFeeds at your desired interval (e.g., every 10 minutes)
 
-### 5. **Manual Refresh Option**
-Use the custom menu or sidebar button (if included in your UI) to manually trigger the refresh
+### 5. Manual Refresh
+
+If you want to refresh the news manually:  
+
+1. In the spreadsheet, go to **`News Aggregator`** in the menu bar.  
+2. Click **`Run Once`**.  
+
+This will execute `runUpdateOnce`, updating the sheet with the latest feed items.
 
 ## 🔐 Permissions
 This script may ask for permission to:
