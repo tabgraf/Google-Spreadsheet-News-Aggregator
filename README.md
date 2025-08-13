@@ -9,6 +9,7 @@ This Google Apps Script application helps you **aggregate news articles from mul
 - 🔘 **Manual Refresh**: Instantly update your feed using a custom menu or sidebar button.
 - 📈 **Popularity Tracking**: Includes popularity metrics for each article.
 - 📋 **Clean Output**: News articles are neatly stored in a Google Sheet with structured data.
+<img width="1619" height="677" alt="news-aggregator" src="https://github.com/user-attachments/assets/1a9bd09f-536e-4e02-b610-50c37f488c00" />
 
 ## 📁 Folder Structure
 ```
