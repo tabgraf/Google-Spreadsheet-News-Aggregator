@@ -35,7 +35,7 @@ Add all the RSS feed URLs in this tab from which you want the news to be aggrega
 
 **Example:**
 
-| Feed URL |
+| RSS |
 |----------|
 | https://example.com/rss |
 | https://news.example.com/feed |
